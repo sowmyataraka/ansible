@@ -1,5 +1,4 @@
 {
-    {
     "students": [
         {
             "firstName": "sowmya",
@@ -20,8 +19,8 @@
             ]
         },
         {
-            "firstName": "Sivakumar",
-            "Lastname": "M",
+            "firstName": "sowmya",
+            "Lastname": "taraka",
             "addresses": [
                 {
                     "type": "perm",
@@ -39,5 +38,4 @@
         }
     ]
     
-}
 }

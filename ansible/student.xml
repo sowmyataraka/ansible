@@ -1,9 +1,9 @@
-<<!-- This is Student object -->
+<!-- This is Student object -->
 <Students>
     <Student>
-        <FirstName>Sivakumar</FirstName>
-        <LastName>M</LastName>
-        <dob>1900-01-01</dob>
+        <FirstName>sowmya</FirstName>
+        <LastName>taraka</LastName>
+        <dob>1900-02-02</dob>
         <mobile>1234567890</mobile>
         <!-- <Adress>gandhi nagar, hyd, 56789</Adress> -->
         <Addresses>
@@ -22,9 +22,9 @@
         </Addresses>
     </Student>
     <Student>
-        <FirstName>Sivakumar</FirstName>
-        <LastName>M</LastName>
-        <dob>1900-01-01</dob>
+        <FirstName>sowmya</FirstName>
+        <LastName>taraka</LastName>
+        <dob>1900-02-02</dob>
         <mobile>1234567890</mobile>
         <!-- <Adress>gandhi nagar, hyd, 56789</Adress> -->
         <Addresses>
