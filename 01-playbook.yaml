@@ -1,3 +1,5 @@
-name: ping the sever
-hosts: frontend # target servers
-tasks: # tasks ==module == collection 
+- name: ping the sever
+ hosts: frontend # target servers
+ tasks: # tasks ==module == collection 
+ - name: ping the server
+  ping:
