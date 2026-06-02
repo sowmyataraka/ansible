@@ -1,0 +1,3 @@
+name: ping the sever
+hosts: frontend # target servers
+tasks: # tasks ==module == collection 
