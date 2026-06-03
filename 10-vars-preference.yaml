@@ -1,4 +1,4 @@
-- name: variables preference
+- - name: variables preference
   hosts: frontend
   # vars:
   #   full_name: "Siva from play"
