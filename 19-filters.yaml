@@ -8,7 +8,7 @@
       project: roboshop
       environment: dev
     full_name: Sivakumar Reddy M
-    ip_address: 178.90.78.17
+    ip_address: 172.31.35.252
     tagsList: [
         {
             "key": "name",
@@ -51,4 +51,4 @@
   - name: check ipv4 address
     debug:
       msg: "{{ ip_address | ansible.utils.ipv4 }}"
-      
+      ``
